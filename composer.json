@@ -21,7 +21,7 @@
 	{
 	    "name": "Andries Mooij",
 	    "email": "a.mooij@gmail.com"
-	},
+	}
     ],
     "type": "library",
     "require": {
