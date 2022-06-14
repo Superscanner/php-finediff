@@ -3,14 +3,14 @@ FineDiff
 
 Originally written by Raymond Hill ([https://github.com/gorhill/PHP-FineDiff](https://github.com/gorhill/PHP-FineDiff))
 
-[![Build Status](https://img.shields.io/travis/d4h/php-finediff.svg?style=flat-square)](https://travis-ci.org/d4h/php-finediff)
-[![Latest Stable Version](https://img.shields.io/packagist/v/d4h/finediff.svg?style=flat-square)](https://packagist.org/packages/d4h/finediff)
-[![License](https://img.shields.io/github/license/d4h/php-finediff?style=flat-square)](#license)
+[![Build Status](https://img.shields.io/travis/superscanner/php-finediff.svg?style=flat-square)](https://travis-ci.org/superscanner/php-finediff)
+[![Latest Stable Version](https://img.shields.io/packagist/v/superscanner/finediff.svg?style=flat-square)](https://packagist.org/packages/superscanner/finediff)
+[![License](https://img.shields.io/github/license/superscanner/php-finediff?style=flat-square)](#license)
 
 ## Installation
 
 ```shell script
-composer require d4h/finediff
+composer require superscanner/finediff
 ```
 
 ## Usage
@@ -80,4 +80,5 @@ echo $renderer->process('string one', 'c7d3i3:two');
 
 ## Credits
 
-Sponsored by [D4H](https://d4htechnologies.com/).
+Originally Sponsored by [D4H](https://d4htechnologies.com/).
+Sponsored by [Superscanner](https://superscanner.nl).

@@ -1,5 +1,5 @@
 {
-    "name": "d4h/finediff",
+    "name": "superscanner/finediff",
     "description": "PHP implementation of a Fine granularity Diff engine",
     "license": "MIT",
     "keywords": ["finediff", "diff", "text", "string", "opcode"],
@@ -17,11 +17,15 @@
         {
             "name": "Igor Finagin",
             "email": "igor@finag.in"
-        }
+        },
+	{
+	    "name": "Andries Mooij",
+	    "email": "a.mooij@gmail.com"
+	},
     ],
     "type": "library",
     "require": {
-        "php": ">=7.2.0"
+        "php": ">=8.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.7",
